@@ -6,7 +6,7 @@ controllo digit mediante 2N3904 o 2N222
 previsto per prove con schede arduino/maker uno o compatibili
 
 ---
-Make with Kicad 5.1.10; CC-BY.SA 3
+Make with Kicad 5.1.10; CC-BY-SA 3
 ---
 
 Display board with 4 digits in multiplexing
