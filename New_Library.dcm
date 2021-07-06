@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP DM9368
-D BCD to 7-segment Decoder/driver, Active High outputs
-K TTL DECOD DECOD7
-F http://www.ti.com/lit/gpn/sn74LS48
-$ENDCMP
-#
-#End Doc Library
