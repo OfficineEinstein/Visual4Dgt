@@ -2,7 +2,7 @@
 ---
 Scheda di visualizzazione con 4 digit in multiplexing
 usa un DM9368 e 4 display sette segmenti tipo FND500
-controllo digit mediante 2N3904 o 2N222
+controllo digit mediante 2N3904 o 2N2222
 previsto per prove con schede arduino/maker uno o compatibili
 
 ---
